@@ -5,25 +5,44 @@ body {
 }
 
 .heading {
+position:fixed;
+width:1180px;
+height:50px;
 }
 
 .heading h1 {
 }
 
 .box {
+float:left;
+display:inline;
+width:32%
+padding:20px;
 }
 
 .box:last-child {
+float:left;
+padding:20px;
+display:inline;
+width:32%
 }
 
 .box h2 {
+float:left;
+display:inline;
+width:32%
+padding:20px;
 }
 
 .box img {
+display:inline;
 }
 
 .box a.read-more {
 }
 
 .footer {
+position:fixed;
+top:600px;
+width:1180px;
 }
