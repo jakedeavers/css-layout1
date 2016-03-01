@@ -2,7 +2,7 @@
   box-sizing: border-box; }
 
 body {
-  padding: 20px 60px;
+  padding: 10px 60px;
   margin: 0;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 14px;
@@ -28,6 +28,7 @@ a:hover {
 h1 small {
   color: #333;
   font-size: .6em;
+padding:30px;
 }
 
 .box {
@@ -35,7 +36,7 @@ h1 small {
   border: 1px solid #999;
   width: 400px;
   margin: 20px 0;
-  padding: 20px;
+  padding: 30px;
 }
 
 .box a.read-more {
